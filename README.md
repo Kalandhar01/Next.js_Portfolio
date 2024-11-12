@@ -1,4 +1,4 @@
-Here's a README file with emojis for your Next.js portfolio using Ascencity!
+My Next.js portfolio using Ascencity!
 
 ---
 
