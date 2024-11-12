@@ -36,8 +36,8 @@ Welcome to my personal portfolio, built with **Next.js** and **Ascencity**! This
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio-repo.git
-   cd your-portfolio-repo
+   git clone https://github.com/kalandhar01/Next.js_Portfolio.git
+   cd Next.js_Portfolio
    ```
 
 2. **Install dependencies:**
@@ -56,7 +56,7 @@ Welcome to my personal portfolio, built with **Next.js** and **Ascencity**! This
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or drop me an email at hello@myportfolio.com. Looking forward to hearing from you! 😊
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kalandhar-naina-mohamed-339b14276/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or drop me an email at hello@myportfolio.com. Looking forward to hearing from you! 😊
 
 ---
 
