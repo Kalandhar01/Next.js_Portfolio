@@ -1,5 +1,6 @@
 import Clients from "@/Components/Clients";
 import Exp from "@/Components/Exp";
+import Footer from "@/Components/Footer";
 import Grid from "@/Components/Grid";
 import Hero from "@/Components/Hero";
 import Project from "@/Components/Project";
@@ -19,6 +20,7 @@ export default function Home() {
         <Project />
         <Clients />
         <Exp />
+        <Footer/>
       
       </div>
     </main>

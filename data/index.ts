@@ -72,15 +72,15 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "Full Stack Clothes E-commerce",
+    des: "A responsive e-commerce platform for fashion, offering a seamless shopping experience. Features include product browsing, cart functionality, secure checkout, and user authentication. Built with a robust backend and an engaging frontend.",
+    img:"/main1.jpg",
+    iconLists: ["/re.svg", "/tail.svg", "/fm.svg"],
+    link: "Work Going",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
+    title: "Anime World",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
@@ -180,15 +180,15 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
+    title: "Mobile App Dev ",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Freelance Web Dev Project",
+    desc: "Led the dev of a mobile Web for a client,",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
@@ -204,6 +204,7 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
+    link:'https://github.com/kalandhar01',
     img: "/git.svg",
   },
   {
