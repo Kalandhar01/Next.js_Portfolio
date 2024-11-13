@@ -6,7 +6,7 @@ import Hero from "@/Components/Hero";
 import Project from "@/Components/Project";
 import { FloatingNav } from "@/Components/ui/FloatingNav";
 import { navItems } from "@/data";
-import 'globals.css';
+
 
 export default function Home() {
   return (
