@@ -6,7 +6,7 @@ import React, { useEffect, useState } from "react";
 export const InfiniteMovingCards = ({
   items,
   direction = "left",
-  speed = "fast",
+  speed = "slow",
   pauseOnHover = true,
   className,
 }: {
@@ -107,8 +107,8 @@ export const InfiniteMovingCards = ({
                 <span className="flex flex-col gap-1">
 
 {/* Card details */}
-                  <div className="me-3">
-                    <img src="/profile.svg" alt="profile" />
+                  <div className="w-10 h-10">
+                    <img src={item.img} alt="profile"  width={50} height={10} className="rounded-full"/>
 
                   </div>
               <div className="flex flex-col gap-1"> 

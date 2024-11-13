@@ -2,6 +2,7 @@ import { FaLocationArrow } from "react-icons/fa";
 import MagicButton from "./ui/MagicButton";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
+import { TextRevealCard } from "./ui/text-reveal-card";
 
 const Hero = () => {
   return (
@@ -35,9 +36,16 @@ const Hero = () => {
             className="text-center text-[40px] md:text-5xl lg:text- "
             words="Bringing Ideas to Life with Code and Creativity"
           />
-          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
+          {/* <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi, I&apos;m Kalandhar, an aspiring MERN and Next.js developer.
-          </p>
+          </p> */}
+
+            <div className="flex flex-col justify-center">
+
+          <TextRevealCard revealText="I Am Kalandhar MERN And NextJS Developer " text="I Am Kalandhar MERN And NextJS Developer " className="" />
+            </div>
+
+
 
           <a href="#about">
             <MagicButton  

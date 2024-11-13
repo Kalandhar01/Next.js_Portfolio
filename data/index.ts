@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently Studying Varios JS library and Web TOOl",
     description: "The Inside Scoop",
     className: "md:col-span-1 md:row-span-1",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -82,68 +82,63 @@ export const projects = [
     id: 2,
     title: "Anime World",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    img: "/anime.jpg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/framer.svg","/cloud9.svg"],
+    link: "https://animeworldv2.netlify.app/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "React Powered First Portfolio",
+    des: "My very first React-powered Portfolio Website is now LIVE! 🚀 Dive into my coding journey, explore projects crafted with React.js, and witness the beginning of my software development adventure.",
+    img: "/profile1.jpg",
+    iconLists: ["/re.svg", "/tail.svg",  "/cloud9.svg","sanity.svg"],
+    link: "https://kalandhar.netlify.app/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    title: "Aura App ",
+    des: "I create A App For Encraging the Social Meadia",
+    img: "/ura1.jpg",
+    iconLists: ["/native1.svg" , "/expo.svg" , "/tail.svg"],
+    link: "Work going",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Kalandhar is not only a talented coder but also a great friend who always brings positive energy to every project we work on together. His problem-solving skills and willingness to help others make him a joy to collaborate with.",
+    name: "Ranjith",
+    img:"/ranjith.jpg",
+    title: "Friend & Project ",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Kalandhar on various projects has been an amazing experience. He always brings innovative ideas and problem-solving skills to the table. Beyond his technical skills, he’s a great friend who supports everyone in the group.",
+    name: "Praveen Pr",
+    title: "Friend & Project Partner",
+    img:"/praveen.jpg"
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Kalandhar has shown outstanding commitment and growth in his studies, consistently applying himself to both theoretical and practical challenges. His strong work ethic and collaborative spirit make him an invaluable member of our computer science department.",
+    name: "Dr. Kannamal",
+    title: "Head of Department, Computer Science and Engineering",
+    img:"/hod.jpg"
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Kalandhar has shown outstanding commitment and growth in his studies, consistently applying himself to both theoretical and practical challenges. His strong work ethic and collaborative spirit make him an invaluable member of our computer science department.",
+    name: "P. SasiKala ",
+    title: "Mentor Of Kalandhar",
+    img:"/sasi.jpg"
   },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
+  
 ];
 
+
 export const companies = [
-  {
-    id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
+  
   {
     id: 2,
     name: "appwrite",
@@ -151,23 +146,31 @@ export const companies = [
     nameImg: "/appName.svg",
   },
   {
+    id: 4,
+    name: "Mongo Db",
+    // img: "/dbimg.png",
+    nameImg: "/db.png",
+  },
+  {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
+    name: "REACT",
+    img: "/re.svg",
     nameImg: "/hostName.svg",
   },
   {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
     id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    name: "vs.",
+    // img: "/dock.svg",
+    nameImg: "/vs.png",
   },
+  
+  {
+    id: 1,
+    name: "cloudinary",
+    img: "/cloud.svg",
+    nameImg: "/cloudName.svg",
+  },
+  
 ];
 
 export const workExperience = [
@@ -188,7 +191,7 @@ export const workExperience = [
   {
     id: 3,
     title: "Freelance Web Dev Project",
-    desc: "Led the dev of a mobile Web for a client,",
+    desc: "Led the dev of a mobile Web for a client,And develop The various App",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
@@ -209,10 +212,12 @@ export const socialMedia = [
   },
   {
     id: 2,
-    img: "/twit.svg",
+    link:'https://linktr.ee/kalandhar01',
+    img: "/mylink3.png",
   },
   {
     id: 3,
+    link:'https://www.linkedin.com/in/kalandhar-naina-mohamed-339b14276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
     img: "/link.svg",
   },
 ];
