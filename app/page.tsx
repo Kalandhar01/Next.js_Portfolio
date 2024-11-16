@@ -8,6 +8,7 @@ import { FloatingNav } from "@/Components/ui/FloatingNav";
 import { navItems } from "@/data";
 
 
+
 export default function Home() {
   return (
    
