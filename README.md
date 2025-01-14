@@ -56,7 +56,7 @@ Welcome to my personal portfolio, built with **Next.js** and **Ascencity**! This
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kalandhar-naina-mohamed-339b14276/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or drop me an email at hello@myportfolio.com. Looking forward to hearing from you! 😊
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kalandhar-naina-mohamed-339b14276/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or drop me an email at kalandars2004@gmail.com. Looking forward to hearing from you! 😊
 
 ---
 
